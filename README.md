@@ -1,4 +1,4 @@
-#IoT Theme Park Monitoring & Ride Management System
+# IoT Theme Park Monitoring & Ride Management System
 This repository contains source code for two case studies that demonstrate the use of Raspberry Pi, ultrasonic sensors, MQTT, ThingSpeak, and Telegram integration for real-time IoT monitoring in a theme park environment.
 Repository Structure
 
